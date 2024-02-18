@@ -22,7 +22,7 @@ export default function TopBar() {
         <div className='topRight'>
           <img
             className='topImg'
-            src=""
+            src="https://images.pexels.com/photos/161573/background-water-breakfast-bright-161573.jpeg"
             alt=""
           />
           <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>

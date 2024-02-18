@@ -8,8 +8,8 @@ export default function Header() {
             <span className="headerTitlesLg">Blog</span>
         </div>
       <img
-        className='HeaderImg'
-        src=""
+        className='headerImg'
+        src="https://images.pexels.com/photos/20187061/pexels-photo-20187061.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         alt=""
       />
         </div>
