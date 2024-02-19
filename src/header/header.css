@@ -10,14 +10,21 @@
     color: #444;
 }
 
-.headerTitileSm {
+.headerTitleSm {
     position: absolute;
     top: 18%;
     font-size: 20px;
 }
 
-.headertitlelg {
+.headerTitleLg {
     position: absolute;
     top: 20%;
     font-size: 100px;
+}
+
+.headerImg {
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
 }

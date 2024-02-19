@@ -1,11 +1,12 @@
 import React from 'react'
+import "./header.css"
 
 export default function Header() {
   return (
         <div className='header'>
           <div className="headerTitles">
-            <span className="headerTitlesSm">React & node</span>
-            <span className="headerTitlesLg">Blog</span>
+            <span className="headerTitleSm">React & node</span>
+            <span className="headerTitleLg">Blog</span>
         </div>
       <img
         className='headerImg'
